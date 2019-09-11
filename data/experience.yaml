@@ -1,0 +1,28 @@
+job:
+
+  -
+    position: Web Applications Grader
+    company: The Ohio State Univeristy
+    duties: >
+      Currently I hold a number of responsibilities all relating to helping students with any problems they face regarding
+      the class and material. Holding office hour weekly to allow contact and meet with the students.
+      Grade student projects based on a number of criteria including project functionallity, code
+      cleanliness/formatting, and helpful documentation.
+    employed_date: March 2019 - Present
+  -
+    position: Full Stack Development Internship
+    company: Crown Equipment Corporation
+    duties: >
+      Here my duties facilitated smooth running of the business and team communication. I worked with a small team
+      operating in an agile methodology and acted as scrum master for a time. I also communicated closely with
+      Business analysts to correctly complete project requirements. Bug fixing, legacy software maintenance and web app
+      development comprised my main job responsibilities. My web app development experience here included Angular 5/6
+      and Java Spring.
+    employed_date: May 2018 - August 2018
+  -
+    position: Plumbing and Hvac Assistant
+    company: North Star Plumbing Heating and Cooling
+    duties: >
+      At this highschool and college summer job I learned the value of hard work. I worked closely with other employees
+      and customers to do whatever what required. I learned life long skills that will continue to help me.
+    employed_date: July 2012 - August 2017

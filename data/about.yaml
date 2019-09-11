@@ -1,0 +1,20 @@
+first_name: Michael
+last_name: Hemmelgarn
+city: Columbus, OH
+zipcode: 45362
+phone: (937) 621-2524
+email: 'Hemmelgarn.85@osu.edu'
+blurb: >
+  I am a Computer Science and Engineering Student at The Ohio State University.
+  <br>My current focus is in Web Development using Ruby on Rails and Angular.
+  <br>I strive to design and create amazing code and to be a great teammate.
+
+social:
+  -
+    url: https://github.com
+    username: Hemmelgarn85
+    icon: github
+  -
+    url: https://linkedin.com
+    username: in/michael-hemmelgarn-7aa626152
+    icon: linkedin

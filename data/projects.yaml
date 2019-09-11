@@ -1,0 +1,19 @@
+projects:
+  
+  -
+    project: Image Hosting Website Using Ruby on Rails
+    link: "https://github.com/Hemmelgarn85/HackStreetImages"
+    imgs:
+
+     -
+       img: "img/userpage.png"
+       alt: "User Page"
+     -
+       img: "img/feed.png"
+       alt: "Feed"
+     -
+       img: "img/imageview.png"
+       alt: "Image View"
+     - 
+       img: "img/signin.jpg"
+       alt: "Sign In"

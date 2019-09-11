@@ -1,0 +1,34 @@
+skills:
+
+  -
+    icon: html5
+  -
+    icon: css3
+  -
+    icon: ruby
+  -
+    icon: ruby_on_rails
+  -
+    icon: javascript
+  -
+    icon: git
+  -
+    icon: angular
+  -
+    icon: python
+  -
+    icon: java
+  -
+    icon: linux
+
+
+workflow:
+
+  -
+    item: RESTful Web Design
+  -
+    item: Throurough Testing &amp; Debugging
+  -
+    item: Agile Development &amp; Scrum
+  -
+    item: Git to Facilitate Version Control

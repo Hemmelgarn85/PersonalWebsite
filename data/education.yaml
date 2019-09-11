@@ -1,0 +1,13 @@
+school:
+
+  -
+    institute: The Ohio State University
+    major: Computer Science & Engineering
+    degree: Bachelor of Science
+    gpa: "GPA: 3.51"
+    attended: August 2016 - December 2019
+
+  -
+    institute: Versailles High School
+    degree: Diploma
+    attended: Graduated 2016
